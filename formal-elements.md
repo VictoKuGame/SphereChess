@@ -10,8 +10,7 @@
  
  ***המשחק מיועד למחשבים האישיים (PC) עם דגש חזק על  VR .***
  <p align="center">
-   <img src="https://github.com/V-LGame/SphereChess/blob/main/Media/SphereChes..jpg" />  
-   <img src="https://github.com/V-LGame/SphereChess/blob/main/Media/SphereicalChessA..gif" />  
+   <img src="https://www.chessvariants.com/boardrules.dir/echecs-spherique-full.jpg" />  
   
   # הערה מאוד חשובה: בשונה ממה שמוצג לעיל כלי המשחק וגם הצפיה במתרחש אמורה להבצע מתוך הספירה ולא מחוצה לה.
   
@@ -39,8 +38,8 @@
 * תהליך ההתחלה של המשחק - המשחק מתחיל עבור השחקן כשהוא נמצא באמצע של מרחב ספרלי (לא ספירלי) שהמרחב הזה הוא לוח שחמט כך שכלים מסודרים סביב הכותבים בתוך הספירה.
  
  <p align="center">
-   <img src="https://github.com/V-LGame/SphereChess/blob/main/Media/SphericalChessNorth.png" />
-   <img src="https://github.com/V-LGame/SphereChess/blob/main/Media/SphericalChessSouth.png" />
+   <img src="https://www.chessvariants.com/boardrules.dir/spherical-north.png" />
+   <img src="https://www.chessvariants.com/boardrules.dir/spherical-south.png" />
  </p>
  
 *	תהליך הליבה של המשחק – אותם החוקים של משחק השחמט הקלאסי.
