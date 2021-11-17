@@ -8,4 +8,6 @@
 
 למעבר להסבר לחץ [כאן](https://github.com/V-LGame/SphereChess/blob/main/formal-elements.md)
  
+## מטלה מתגלגת לשבוע 5 : למעבר להסבר לחץ [כאן](https://github.com/VictoKuGame/SphereChess/tree/main/2dChess)
+
 </div>
