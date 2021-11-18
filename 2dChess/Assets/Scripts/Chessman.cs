@@ -12,8 +12,8 @@ public class Chessman : MonoBehaviour
     //*References to all the possible Sprites that this Chesspiece could be.
     public Sprite black_queen, black_knight, black_bishop, black_king, black_rook, black_pawn;
     public Sprite white_queen, white_knight, white_bishop, white_king, white_rook, white_pawn;
-    [SerializeField] float offsetMul = 0.66f;
-    [SerializeField] float offsetPls = -2.33f;
+    [SerializeField] float offsetMul;
+    [SerializeField] float offsetPls;
     public void Activate()
     {
         controller = GameObject.FindGameObjectWithTag("GameController");
@@ -109,7 +109,7 @@ public class Chessman : MonoBehaviour
         GameObject[] movePlates = GameObject.FindGameObjectsWithTag("MovePlate");
         for (int i = 0; i < movePlates.Length; i++)
         {
-            Destroy(movePlates[i]); //Be careful with this function "Destroy" it is asynchronous
+            Destroy(movePlates[i]);
         }
     }
     //* Create new MovePlates .
