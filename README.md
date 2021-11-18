@@ -8,4 +8,10 @@
 
 למעבר להסבר לחץ [כאן](https://github.com/V-LGame/SphereChess/blob/main/formal-elements.md)
  
+## מטלה מתגלגת לשבוע 5 : למעבר להסבר לחץ [כאן](https://github.com/VictoKuGame/SphereChess/tree/main/2dChess)
+
+[Visit us on itch.io](https://victoku1.itch.io/2d-chess-spherechess-project-base-mechanic-model)
+
+[![](http://img.youtube.com/vi/mjL8xOkUfBc/0.jpg)](http://www.youtube.com/watch?v=mjL8xOkUfBc "2D Chess (SphereChess Project base mechanic model) .")
+
 </div>
