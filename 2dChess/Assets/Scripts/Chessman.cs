@@ -269,3 +269,20 @@ public class Chessman : MonoBehaviour
         mpScript.SetCoords(matrixX, matrixY);
     }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
